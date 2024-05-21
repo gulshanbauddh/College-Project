@@ -7,8 +7,8 @@ version: 1.0.0
 
 ## Full Tutorial
 
-[On Youtube](   )
+[On Youtube]:(https://www.youtube.com/watch?v=UJDJIKTjxB0)
 
 ## Authors
 
-[Gulshan Bauddh](  )
+[Gulshan Bauddh]:(https://github.com/gulshanbauddh)
